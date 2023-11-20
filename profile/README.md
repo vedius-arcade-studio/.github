@@ -1,6 +1,7 @@
 # Vedius Arcade Studios
 
-** Vini Vedius Vici ** I Came, I Played, I Won. 
+**Vini Vedius Vici**
+I Came, I Played, I Won. 
 
 Welcome to Vedius Arcade Studios, where nostalgia meets innovation in gaming! Our indie studio specializes in creating unique,
 custom games that evoke the magic of retro gaming while offering a fresh, exciting experience. 
